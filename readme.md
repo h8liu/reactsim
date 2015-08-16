@@ -19,7 +19,7 @@ $ nsdisim -fig10=fig10.dat -fig11=fig11.dat
 The `nsdisim` will save the results in `fig10.dat` and `fig11.dat`.
 
 A copy of the results are also saved in 
-`$GOPATH/src/github.com/h8liu/reactsim/nsdisim/result`.
+[`nsdisim/result`](https://github.com/h8liu/reactsim/tree/master/nsdisim/result).
 
 Google Spreadsheets with 
 [the figures](https://docs.google.com/spreadsheets/d/1BQnT4f96MYPwhZupeTeVwgg0u4QOmjaK8jnaLnGTcEI/edit?usp=sharing).
